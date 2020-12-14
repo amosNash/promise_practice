@@ -1,0 +1,26 @@
+{
+  "name": "promise_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawn-chambers/promise_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawn-chambers/promise_practice/issues"
+  },
+  "homepage": "https://github.com/shawn-chambers/promise_practice#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "request": "^2.88.2"
+  }
+}
